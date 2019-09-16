@@ -2,32 +2,34 @@
 <html>
 <head>
 <title>ITIT - A1</title>
-</head>
-<body>
-
-<h1><b>PERSONAL INFORMATION:</b></h1>
-<!-- Tab links -->
-<div class="tab">
-  <button class="tablinks" onclick="openAssignment1(event, 'PERSONAL INFORMATION')">PERSONAL INFORMATION</button>
-  <button class="tablinks" onclick="openIdealJob(event, 'IDEAL JOB')">IDEAL JOB</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
-</div>
-
-<!-- Tab content -->
 <div id="London" class="tabcontent">
-  <h3>London</h3>
+  <h1>London</h1>
   <p>London is the capital city of England.</p>
 </div>
 
 <div id="Paris" class="tabcontent">
-  <h3>Paris</h3>
+  <h1>Paris</h1>
   <p>Paris is the capital of France.</p>
 </div>
 
 <div id="Tokyo" class="tabcontent">
-  <h3>Tokyo</h3>
+  <h1>Tokyo</h1>
   <p>Tokyo is the capital of Japan.</p>
 </div>
+
+<div id="Oslo" class="tabcontent">
+  <h1>Oslo</h1>
+  <p>Oslo is the capital of Norway.</p>
+</div>
+
+<button class="tablink" onclick="openCity('London', this, 'red')" id="defaultOpen">London</button>
+<button class="tablink" onclick="openCity('Paris', this, 'green')">Paris</button>
+<button class="tablink" onclick="openCity('Tokyo', this, 'blue')">Tokyo</button>
+<button class="tablink" onclick="openCity('Oslo', this, 'orange')">Oslo</button>
+</head>
+<body>
+
+<h1><b>PERSONAL INFORMATION:</b></h1>
 <p>
 Welcome all to my website!
 Firstly, I’ll start by introducing and providing basic information about myself. My name is Ceren Buyuksu (student ID S3817416) and I’m a currently enrolled IT student. My nationality originates from Turkey since previous generations were born and raised in Turkey, however I was born and raised in Melbourne, Australia.
