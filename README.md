@@ -18,7 +18,7 @@ My education to date, is the following:
 If you have any questions regarding my work, email me through the following email: ceren_buyuksu@hotmail.com 
 
 
-<h4> INTERESTING FACT! </h4>
+<h6> INTERESTING FACT! </h6>
 I despise horror movies but enjoy watching gruesome films. Films such as Saw, The Human Centipede are things that interest me. Even though both genres can base on true stories, horror creates this concept or idea that I won’t be able to protect myself from the spiritual realm if positioned in the character’s state in the movie. 
 For example, if a serial killer kidnapped me, I would have solutions I can alternate between so that I have a leeway for escape. However, with a demon you can only do so much physically. From my perspective, physical solutions can be a better way to have an increased chance of escaping rather than relying on others assistance.
 
