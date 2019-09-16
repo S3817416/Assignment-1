@@ -13,10 +13,14 @@ Welcome all to my website!
 Firstly, I’ll start by introducing and providing basic information about myself. My name is Ceren Buyuksu (student ID S3817416) and I’m a currently enrolled IT student. My nationality originates from Turkey since previous generations were born and raised in Turkey, however I was born and raised in Melbourne, Australia.
 Although Turkish is my native language, my ability to speak fluently in Turkish has decreased due to the years of consistently speaking English and focusing less on my native language. Whilst I’m not as good as I used to be, I can convey a conversation and still communicate my message through to the other person. In terms of culture, I attempt to keep a balance between the Turkish and Australian culture.
 My education to date, is the following:
- - VCE 2017 – Completed
- - Certificate 3 & 4 in Interactive media 2017 - Completed
- - Diploma of Information Technology 2018 – Incomplete
- - Bachelor of Information Technology 2019 – Enrolled
+<ul>
+  <li>VCE 2017 – Completed</li>
+  <li>Certificate 3 & 4 in Interactive media 2017 - Completed</li>
+  <li>Diploma of Information Technology 2018 – Incomplete</li>
+  <li> Bachelor of Information Technology 2019 – Enrolled
+</li>
+</ul>
+
 If you have any questions regarding my work, email me through the following email: ceren_buyuksu@hotmail.com 
 
 
