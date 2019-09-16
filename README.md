@@ -201,9 +201,11 @@ I should be cautious of my actions when in a team so I can keep on track and pro
 
 <h6> OVERVIEW </h6>
 What is it used for? 
+<br>
 The proposed idea is to create a smart house which is efficient and effective for users. It is used to help people in their daily lives and spend less time on house chores etc. Smart houses are a residence that requires internet and network connected smart devices to enable remote monitoring and management of appliances and systems.
 
 Who uses it? 
+<br>
 It is not specifically targeted to anyone, yet it can be for everyone. Usually, people are categorized either into one or more of these categories:
 <li>Retired renters</li>
   <li>Convenience seekers</li>
@@ -216,6 +218,7 @@ It is not specifically targeted to anyone, yet it can be for everyone. Usually, 
 <br>
 <br>
 Why would they use it? 
+<br>
 A smart house is a service that can used for many of the four practical reasons. The reasons being:
  <li>Convenience – having the option to operate or maintain your smart home whilst outside of the house. 
  For example, when you’re coming home from work during winter and you want the house to be warm when you arrive.</li>
@@ -230,6 +233,7 @@ and how much energy is used</li>
 <br>
 <br>
 How it will be used? 
+<br>
 Smart homes usually have a smart assistant that connects with a smart device that also connects to the internet via router, ethernet cable 
 or other sources. However, there are other ways an individual can operate this service and that is through motion sensors, remote controls, 
 voice recognition or smart assistants. In order to be able to operate this service of the smart house, you need to initially set up and connect 
@@ -237,13 +241,13 @@ the devices and appliances to the internet so they can communicate before they w
 <br>
 <br>
 Where it the solution be effective and how will it be effective?
+<br>
 Solution can be implemented within buildings such as homes, offices or schools. It will be effective depending on the nature of the setting. 
 For example, in homes, a person can vocally request for the smart assistant to make coffee from the coffee machine at a set time for the next 
 day let’s say.
 
 
 <h6> MOTIVATION </h6>
-RESULTS OF LEARNING STYLE TEST:
 Why will the project be interesting or useful?
 <br>
 The project will be useful as it will help everyday life for individuals. It will assist in making a better life since it will allow the user 
@@ -257,8 +261,7 @@ homes.
   <li> the set up to be costly  </li>
   <li> information or data being leaked to third party companies</li>
   <li>not environmentally friendly as it might use more energy rather than an ordinary home</li>
-  <li></li>
-  <li></li>
+ 
  
 <br>
 <br>
@@ -271,7 +274,7 @@ website etc. has minimalistic interface.</li>
   <li>Child lock mode – acts like the guest mode however has even less settings that can be changed and has a child friendly interface.</li>
   <li>Multiple accounts/channels – can have limited admins but many accounts available so that it’s customizable for everyone and is able 
 to suit everyone’s needs and requirements </li>
-  <li></li>
+  
 
 <br>
 With the smart house you can connect several appliances and control appliances/devices remotely through using remote controls, voice 
@@ -311,7 +314,7 @@ it can be used a back up plan for the organisation</li>
 The essential equipment/tools needed for implementing a smart house system require:
 <li>Wire cutters</li>
 <li>Work desk</li>
-<li>LAdder</li>
+<li>Ladder</li>
 <li>Hammer </li>
 <li>Screw drivers and screws</li>
 <li>Cable ties</li>
