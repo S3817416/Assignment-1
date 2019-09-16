@@ -64,7 +64,7 @@ During my studies at RMIT I expect to learn rather than base my skills off memor
 
 <p>
 Link to my ideal job: <a href="https://www.seek.com.au/job/39786676?searchrequesttoken=a75a16eb-a315-41d1-9215-6f185a33a972&type=promoted">Click to visit the Seek advertisment</a> 
-
+<img src="seek.png" alt="advertisment page">
 
 <h6> DESCRIPTION OF JOB </h6>
 This position is looking for an individual with outstanding problem-solving skills who is passionate about maintaining LMI Group’s engine room whilst also providing great customer service. It is a service desk position. The daily requirements are to assist in resolving helpdesk requests and to determine the urgency of requests. This position is appealing to me because I get to help people with their issues through troubleshooting and also target my motivation to continue in the IT sector.
