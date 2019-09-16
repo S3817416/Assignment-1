@@ -3,10 +3,10 @@
 <head>
 <title>ITIT - A1</title>
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a class="active" href="#personalInformation">PERSONAL INFORMATION</a>
+  <a href="#idealJob">IDEAL JOB</a>
+  <a href="#personalProfile">PERSONAL PROFILE</a>
+  <a href="#projectIdea">PROJECT IDEA</a>
 </div>
 
 </head>
@@ -41,23 +41,6 @@ Currently I have no IT experience but would love to gain some experience through
 
 Transferring from Victoria University to RMIT has been a major change. The reason behind transferring was the fact that I was not learning much from the classes and the way the block mode system was set up and how the units were presented. I transferred to RMIT because its been said that RMIT is good for IT and the fact that this is an online course as well meaning that I could work full time. Those are the major factors have helped me to decide to transfer into RMIT.
 During my studies at RMIT I expect to learn rather than base my skills off memory and not aim to just pass my studies. Other than my grades, I hope to create connections with the students and tutors at RMIT. But most importantly I aim to successfully complete my bachelor’s degree and maybe move on to a master’s degree.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 
