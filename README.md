@@ -70,15 +70,18 @@ This position is looking for an individual with outstanding problem-solving skil
 
 <br>
 The skills and qualifications needed for this position requires the following criteria:
-- Tertiary qualification in IT or related disciplines
-- 3 years’ experience as a level 2 ICT service desk
-- Good analytical thinking and problem-solving skills
-- Common sense and initiative
-- Business awareness
-- Tenacity
-- Strategic thinking
-- Positive approach to change
-- Legal rights to live and work in Australia
+<ul>
+  <li>Tertiary qualification in IT or related disciplines</li>
+  <li>3 years’ experience as a level 2 ICT service desk</li>
+  <li>Good analytical thinking and problem-solving skills</li>
+   <li>Common sense and initiative</li>
+   <li>Business awareness</li>
+   <li>Tenacity</li>
+   <li>Strategic thinking</li>
+   <li>Positive approach to change</li>
+   <li>Legal rights to live and work in Australia</li>
+</ul>
+
 
 The skills and qualifications I currently have are the following:
 - Good analytical thinking and problem-solving skills
