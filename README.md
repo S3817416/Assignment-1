@@ -2,6 +2,12 @@
 <html>
 <head>
 
+<div class="topnav">
+  <a class="active" href="#personalInformation">PERSONAL INFORMATION</a>
+  <a href="#idealJob">IDEAL JOB</a>
+  <a href="#personalProfile">PERSONAL PROFILE</a>
+  <a href="#projectIdea">PROJECT IDEA</a>
+</div>
 
 </head>
 <body>
@@ -56,12 +62,6 @@ During my studies at RMIT I expect to learn rather than base my skills off memor
 <html>
 <head>
 
-<div class="topnav">
-  <a class="active" href="#personalInformation">PERSONAL INFORMATION</a>
-  <a href="#idealJob">IDEAL JOB</a>
-  <a href="#personalProfile">PERSONAL PROFILE</a>
-  <a href="#projectIdea">PROJECT IDEA</a>
-</div>
 
 </head>
 <body>
