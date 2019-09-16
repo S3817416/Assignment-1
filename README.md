@@ -185,3 +185,159 @@ I should be cautious of my actions when in a team so I can keep on track and pro
 
 </body>
 </html>
+
+
+<html>
+<head>
+
+
+</head>
+<body>
+
+<h1><b>PROJECT IDEA: </b></h1>
+
+<p>
+
+
+<h6> OVERVIEW </h6>
+What is it used for? 
+The proposed idea is to create a smart house which is efficient and effective for users. It is used to help people in their daily lives and spend less time on house chores etc. Smart houses are a residence that requires internet and network connected smart devices to enable remote monitoring and management of appliances and systems.
+
+Who uses it? 
+It is not specifically targeted to anyone, yet it can be for everyone. Usually, people are categorized either into one or more of these categories:
+<li>Retired renters</li>
+  <li>Convenience seekers</li>
+  <li> Greens </li>
+  <li>Affluent nesters</li>
+  <li>Impressers</li>
+  <li>Early adopter</li>
+  <li>Heavy schedule loaded people</li>
+  
+<br>
+<br>
+Why would they use it? 
+A smart house is a service that can used for many of the four practical reasons. The reasons being:
+ <li>Convenience – having the option to operate or maintain your smart home whilst outside of the house. 
+ For example, when you’re coming home from work during winter and you want the house to be warm when you arrive.</li>
+ <li>multi tasking, work schedule hectic, busy lifestyle, laziness</li>
+  <li>Security – to have better protection within your home so that events such as theft or robberies can’t be achieved. 
+However, there will also be security and privacy concerns with a smart house.</li>
+  <li>Comfort – this can be used by having climate and lighting systems adjusting according to the time of day, the outside temperate 
+or your individual mood</li>
+<li>Efficiency – having control over devices remotely so that you can activate or deactivate the devices and monitor the house of where 
+and how much energy is used</li>
+  
+<br>
+<br>
+How it will be used? 
+Smart homes usually have a smart assistant that connects with a smart device that also connects to the internet via router, ethernet cable 
+or other sources. However, there are other ways an individual can operate this service and that is through motion sensors, remote controls, 
+voice recognition or smart assistants. In order to be able to operate this service of the smart house, you need to initially set up and connect 
+the devices and appliances to the internet so they can communicate before they work.
+<br>
+<br>
+Where it the solution be effective and how will it be effective?
+Solution can be implemented within buildings such as homes, offices or schools. It will be effective depending on the nature of the setting. 
+For example, in homes, a person can vocally request for the smart assistant to make coffee from the coffee machine at a set time for the next 
+day let’s say.
+
+
+<h6> MOTIVATION </h6>
+RESULTS OF LEARNING STYLE TEST:
+Why will the project be interesting or useful?
+<br>
+The project will be useful as it will help everyday life for individuals. It will assist in making a better life since it will allow the user 
+to multitask during their daily routine. It is a simple and easy solution for a broad range of individuals or families to implement within their 
+homes.
+ For example, it allows more efficient electric and energy use, will help elder people or people with disabilities, will help individuals or 
+ families that have a busy schedule. Although there are many advantages to a smart house there are a few disadvantages as well. Things such as:
+ <br>
+ <li>security and privacy concerns</li>
+  <li>having the system or service malfunction</li>
+  <li> the set up to be costly  </li>
+  <li> information or data being leaked to third party companies</li>
+  <li>not environmentally friendly as it might use more energy rather than an ordinary home</li>
+  <li></li>
+  <li></li>
+ 
+<br>
+<br>
+As stated before there are seven main categories that people can be categorized into and those seven categories being;
+ Convenience seekers, Retired renters, Greens, Affluent nesters, Impressers, Early adopters, and/or Heavy schedule loaded people 
+Features of a smart house may include the following:
+  <li>Guest mode – for when guests come and allow for settings to be changed but only with certain things such as heating, lighting. 
+Nothing can be configured through the channel or mode unless the “admin” approves via their smart phone or manually logging onto the 
+website etc. has minimalistic interface.</li>
+  <li>Child lock mode – acts like the guest mode however has even less settings that can be changed and has a child friendly interface.</li>
+  <li>Multiple accounts/channels – can have limited admins but many accounts available so that it’s customizable for everyone and is able 
+to suit everyone’s needs and requirements </li>
+  <li></li>
+
+<br>
+With the smart house you can connect several appliances and control appliances/devices remotely through using remote controls, voice 
+recognition, motion sensor and/or a smart device. This is all connected to the internet allowing users to control, monitor and adjust
+ settings within their home. There is a wide variety of items that can be connected and controlled in a smart house. Some examples of 
+ hardware are wireless speakers, domestic robots, door locks and thermostats can be connected within a smart home. 
+
+<h6> TOOLS AND TECHNOLOGIES </h6>
+Describe the software, hardware and/or the other required equipment needed.
+By installing or setting up a smart home or building will require a lot of effort. You will need a wide range of items whether that would be software or hardware solutions. 
+
+
+<br>
+<br>
+The software needed for implementing a smart house system require:
+<li>Suitable applications – this would be created by the company itself as it would best suit their ideal outcomes for a smart home</li>
+<li>Networks – the devices need to be connected on to a network so that if the internet fails it can still communicate through the network</li>
+<li>Programs – having smaller programs for certain items or appliances that are out of the ordinary such as a pie maker</li>
+<li>Firewalls – having a firewall implemented will decrease the chance of a hacker hijacking the system </li>
+<li>IoT</li>
+
+
+<br>
+<br>
+The hardware needed for implementing a smart house system require:
+<li>Smart devices – the main source of controlling and monitoring the system and services that the smart home produces or the individual. 
+This could be a phone, laptop, pc, iPad etc.</li>
+<li>Router – to connect to the internet</li>
+<li>Servers – having a large server for the company can help aid managing and accessing a centralized resource or service within the network 
+if there were to be any issues, 
+it can be used a back up plan for the organisation</li>
+<li>Ethernet cables or cat6 cable – to connect to the internet via cables for a secure connection </li>
+<li>WIFI – having the option of going wireless with appliances</li>
+
+<br>
+<br>
+The essential equipment/tools needed for implementing a smart house system require:
+<li>Wire cutters</li>
+<li>Work desk</li>
+<li>LAdder</li>
+<li>Hammer </li>
+<li>Screw drivers and screws</li>
+<li>Cable ties</li>
+
+<h6> SKILLS REQUIRED </h6>
+The skills required for building or installing a smart house would require the hardware, software and the equipment and/or tools. 
+The first resource you need is the ability and skill to install and set up a  smart home. If you’re not able to do this then you should 
+contact a professional with this knowledge. If you can commit to that ability, you should also have some knowledge regarding IT studies such
+ as networking, coding and programming. These skills will greatly impact the outcome produced. For example, the more you know the more 
+ advanced set ups you could commit to and complete. As I have said before, if you can not complete this skill or don’t have the ability 
+ to do so there are always professionals that you can facilitate. Furthermore, you need simpler skills such as:
+<li>Tactical skills </li>
+<li>Common sense and strategic thinking</li>
+<li>Time management skills</li>
+
+<h6> OUTCOME </h6>
+If project is successful what will be the outcome?
+<br>
+If successful , the project can accomplish various varieties of tasks as it can be controlled, monitored and adjusted to the person’s 
+desired settings. As technology advances, it can also deploy the individual’s daily routine overtime. The main original issue within 
+this project was having security and privacy concerns. This can be solved through further researched and improved software and programming
+ solutions. The company may seek out higher end firewalls that could be implemented when purchasing the software solution to create a 
+ smart home. Ultimately, the development and concept of this project is to create a well-managed system that meets individuals and family
+ needs so that their life can be easier and well organized in the most efficient and effective solution.
+
+</p>
+
+</body>
+</html>
